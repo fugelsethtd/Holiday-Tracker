@@ -3,6 +3,7 @@ Holiday tracker includes the notebook for running the program itself
 Comes preloaded with holidays from 2 places:
   1. The provided holidays.json
   2. read in from timeanddate.com
+
 The holidays are stored in a list as holiday objects taking date and name of the holiday
 There are options to:
 add holidays manually
